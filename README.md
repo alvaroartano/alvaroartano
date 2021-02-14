@@ -5,8 +5,8 @@
 **alvaroartano/alvaroartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** Laravel
-- 🌱 **I’m currently learning:** ReactJS
+- 🔭 **I’m currently working on:** Flask & Stripe
+- 🌱 **I’m currently learning:** MERN stack
 - :school: **Other information:** I'm currently developing a project called [Mychecklists](https://twitter.com/mychecklists)
 - 😄 **Pronouns:** He/His
 - ⚡ **Fun fact:** I play the guitar :)
