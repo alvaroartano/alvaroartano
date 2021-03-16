@@ -5,7 +5,7 @@
 **alvaroartano/alvaroartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** Flask & Stripe
+- 🔭 **I’m currently working on:** A dashboard for my personal life, even tasks of calendar, with a mern stack frontend, and express & node powered backend API
 - 🌱 **I’m currently learning:** MERN stack
 - :school: **Other information:** I'm currently developing a project called [Mychecklists](https://twitter.com/mychecklists)
 - 😄 **Pronouns:** He/His
