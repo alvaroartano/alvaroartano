@@ -5,11 +5,11 @@
 **alvaroartano/alvaroartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** A dashboard for my personal life, even tasks of calendar, with a mern stack frontend, and express & node powered backend API
-- 🌱 **I’m currently learning:** MERN stack
-- :school: **Other information:** I'm currently developing a project called [Mychecklists](https://twitter.com/mychecklists)
+- 🔭 **I’m currently working on:** Choir management app.
+- 🌱 **I’m currently learning:** t-3 stack
+- :school: **Other information:** I'm currently in school (11th grade equivalent)
 - 😄 **Pronouns:** He/His
-- ⚡ **Fun fact:** I play the guitar :)
+- ⚡ **Fun fact:** I play the piano and guitar.
 
 ### Feel free to connect with me:
 
