@@ -5,10 +5,8 @@
 **alvaroartano/alvaroartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 **I’m currently working on:** Spectral
-- :school: **Other information:** Last year of school
-- 😄 **Pronouns:** He/His
-- ⚡ **Fun fact:** I play the piano and guitar.
+- 🔭 **I’m currently working on:** Outray☀︎
+- ⚡ **Fun fact:** I love music, I play a few instruments and sing in a choir.
 
 ### Feel free to connect with me:
 
